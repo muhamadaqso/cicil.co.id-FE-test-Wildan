@@ -1,0 +1,9 @@
+.card-body{
+    height: 352px;
+}
+.alert-danger {
+    color: white;
+    background-color: #ff1026;
+    border-color: #ff1026;
+    text-align: center;
+}
